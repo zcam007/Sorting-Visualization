@@ -7,7 +7,7 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 5) Merge Sort
 
 ### Sourcerer
-<a href="https://sourcerer.io/zcam007"><img src="https://avatars2.githubusercontent.com/u/15379984?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/zcam007"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
 <a href="https://sourcerer.io/zcam007"><img src="https://img.shields.io/badge/JavaScript-154%20commits-orange.svg" alt=""></a>
 
 ### Code Requirements

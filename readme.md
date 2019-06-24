@@ -1,4 +1,4 @@
-## Sorting Algorithms [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/zcam007/Sorting-Visualization/blob/master/LICENSE.txt)
+## Sorting Algorithms [![](https://img.shields.io/badge/ChandraMouli-R-orange.svg)](https://github.com/zcam007)[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/zcam007/Sorting-Visualization/blob/master/LICENSE.txt)
 This code helps you to understand the different Sorting algorithms. The sorting algorithms depicted in this code are:
 1) Bubble Sort
 2) Selection Sort

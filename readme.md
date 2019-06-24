@@ -7,7 +7,9 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 5) Merge Sort
 
 ### Sourcerer
-[![]<img src="https://img.shields.io/badge/HTML-170%20commits-orange.svg" alt="">
+<a href="https://sourcerer.io/zcam007"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/zcam007"><img src="https://avatars2.githubusercontent.com/u/15379984?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/zcam007"><img src="https://img.shields.io/badge/JavaScript-154%20commits-orange.svg" alt=""></a>
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work).

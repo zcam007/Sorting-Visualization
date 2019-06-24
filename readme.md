@@ -7,7 +7,7 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 5) Merge Sort
 
 ### Sourcerer
-[![](https://sourcerer.io/fame/zcam007/zcam007/Sorting-Visualization/images/0)](https://img.shields.io/badge/JavaScript-154%20commits-orange.svg)
+[![]<img src="https://img.shields.io/badge/HTML-170%20commits-orange.svg" alt="">
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work).
